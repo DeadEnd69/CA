@@ -53,7 +53,7 @@ int main()
     char *sum = addBinary(binary1, binary2);
 
     printf("Sum of %s and %s is %s\n", binary1, binary2, sum);
-    printf("\n\nProgram by Animesh Acharya\t Roll no.:VCIT03 Computer Architecture");
+
 
     return 0;
 }
