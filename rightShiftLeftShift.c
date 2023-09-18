@@ -39,6 +39,6 @@ int main()
     {
         printf("%d\t", arr[i]);
     }
-    printf("\n\nProgram by Animesh Acharya\t Roll no.:VCIT03 Computer Architecture");
+   
     return 0;
 }
