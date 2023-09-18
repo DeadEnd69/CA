@@ -14,7 +14,7 @@ int main()
     }
     comp[len] = '\0';
     printf("The complement of %s is %s\n", str1, comp);
-    printf("\n\nProgram by Animesh Acharya\t Roll no.:VCIT03 Computer Architecture");
+  
 
     return 0;
 }
