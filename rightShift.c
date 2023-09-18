@@ -31,6 +31,6 @@ int main()
     circularRightShift(binary, shift);
 
     printf("Circularly right shifted binary: %s\n", binary);
-    printf("\n\nProgram by Animesh Acharya\t Roll no.:VCIT03 Computer Architecture");
+   
     return 0;
 }
