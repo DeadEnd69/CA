@@ -32,7 +32,7 @@ int main()
     circularLeftShift(binary, shift);
 
     printf("Circularly left shifted binary: %s\n", binary);
-    printf("\n\nProgram by Animesh Acharya\t Roll no.:VCIT03 Computer Architecture");
+  
 
     return 0;
 }
