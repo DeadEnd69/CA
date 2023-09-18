@@ -68,7 +68,7 @@ int main()
     scanf("%s", binary2);
     char *difference = subtractBinary(binary1, binary2);
     printf("Difference of %s and %s is %s\n", binary1, binary2, difference);
-    printf("\n\nProgram by Animesh Acharya\t Roll no.:VCIT03 Computer Architecture");
+   
 
     return 0;
 }
